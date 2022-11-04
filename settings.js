@@ -54,14 +54,14 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['+967739359648'] //ur owner number
+global.vcardowner = ['967739359648'] //ur owner number
 global.ownername = "المطور سالم بن عمرو🐼🍷 ٫" //ur owner name
-global.ytname = "YT: 𝒔𝒂𝒍𝒆𝒎 𝒎𝒐𝒅𝒔" //ur yt chanel name
+global.ytname = "I'm: 𝒔𝒂𝒍𝒆𝒎 𝒎𝒐𝒅𝒔" //ur yt chanel name
 global.socialm = "GitHub: SBMODS" //ur github or insta name
 
 //bot bomdy 
 global.owner = ['967739359648']
-global.ownertag = '+967739359648' //ur tag number
+global.ownertag = '967739359648' //ur tag number
 global.botname = 'بوت سالم المتطور🐼🍷 ٫' //ur bot name
 global.linkz = "https://t.me/sb_wa" //your theme url which will be displayed on whatsapp
 global.websitex = "https://t.me/sb_wa" //ur website to be displayed
@@ -69,7 +69,7 @@ global.botscript = 'https://chat.whatsapp.com/Bg9OodQ8FwIBC0R2rDyfd7' //script l
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "⍣ المطور سالم بن عمرو يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣+967739359648⍣" //ur sticker watermark author
+global.author = "⍣967739359648⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
