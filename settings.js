@@ -54,19 +54,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201098906252'] //ur owner number
-global.ownername = "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫" //ur owner name
-global.ytname = "YT: Elgazar" //ur yt chanel name
-global.socialm = "GitHub: Elgazar" //ur github or insta name
+global.vcardowner = ['+967739359648'] //ur owner number
+global.ownername = "المطور سالم بن عمرو🐼🍷 ٫" //ur owner name
+global.ytname = "YT: 𝒔𝒂𝒍𝒆𝒎 𝒎𝒐𝒅𝒔" //ur yt chanel name
+global.socialm = "GitHub: SBMODS" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['967739359648']
 global.ownertag = '+967739359648' //ur tag number
 global.botname = 'بوت سالم المتطور🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.linkz = "https://t.me/sb_wa" //your theme url which will be displayed on whatsapp
+global.websitex = "https://t.me/sb_wa" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/Bg9OodQ8FwIBC0R2rDyfd7' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
 global.packname = "⍣ المطور سالم بن عمرو يروحي ⍣" //ur sticker watermark packname
@@ -106,7 +106,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم يروحي ✓',
-    admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
+    admin: 'هذه الميزه للرجال المشرفين,استرجل وجرب مره تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
     group: 'لميزة تستخدم فقط للمجموعات!',
@@ -114,7 +114,7 @@ global.mess = {
     bot: 'هذه الميزة مخصصة للبوت فقط',
     wait: 'استني شويه...',
     linkm: 'أين الرابط?',
-    error: 'ايرور!!',
+    error: 'خطاء!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، مالك الدردشة.',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
